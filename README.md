@@ -13,7 +13,7 @@
 
 ## git 命令
 
- -  克隆仓库  git clone 
+ -  克隆仓库  g11111111it clone 
  -  提交至暂存区 git add . [文件名]
  -  提交至本地仓库 git commit -m "提交信息"
  -  推送至远程仓库 git push origin [分支名]
