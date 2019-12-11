@@ -13,7 +13,15 @@
 
 ## git 命令
 
- -  克隆仓库  g11111111it clone 
+ -  克隆仓库  git clone 
  -  提交至暂存区 git add . [文件名]
  -  提交至本地仓库 git commit -m "提交信息"
  -  推送至远程仓库 git push origin [分支名]
+
+ -  本地新建分支 git branch [分支名] git checkout [分支名]
+ -  合并某分支上的修改  git pull origin [分支名]
+
+ -  查看状态 git status
+ -  查看提交日志  git log 
+
+ [参考《阮一峰 git》](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
